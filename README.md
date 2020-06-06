@@ -1,2 +1,2 @@
 # NLW-Ecoleta
-Projeto desenvolvido no bootcamp da Next Levl Week
+Projeto desenvolvido no bootcamp da Next Level Week
